@@ -13,6 +13,6 @@
 			android:value="Use Album Artist instead of Artist when tagging media files."/>
 		<meta-data
 			android:name="xposedminversion"
-			android:value="88"/>
+			android:value="60"/>
 	</application>
 </manifest>
